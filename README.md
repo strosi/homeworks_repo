@@ -1,4 +1,5 @@
 # homeworks_repo
 Some homeworks from Programming fundamentals course
 
-The conflict was resolved... I hope so :)
+Added a line here...
+and here..

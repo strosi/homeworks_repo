@@ -1,5 +1,4 @@
 using System;
-//using System.Collections.Generic;
 using System.Linq;
 //using System.Text;
 //using System.Threading.Tasks;
@@ -15,6 +14,8 @@ namespace ConsoleAppProgrammingFund_test
 
             int equalWordsCounterL = 0;
             int equalWordsCounterR = 0;
+
+            // in the next two for loops the arrays are checked for the longest common ending
 
             for (int i = 0; i < Math.Min(array1.Length, array2.Length); i++)
             {
